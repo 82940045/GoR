@@ -1,0 +1,11 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/tabalt/gracehttp",
+			"repository": "https://github.com/tabalt/gracehttp",
+			"revision": "0f446cd42fc62f1bce9a7cd4ce9d6c25761914cb",
+			"branch": "master"
+		}
+	]
+}
